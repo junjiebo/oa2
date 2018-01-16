@@ -3,3 +3,4 @@ ddd
 eee
 localupt
 discuve bug
+testconflict local
